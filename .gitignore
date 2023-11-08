@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+LandCoverSegmentation/model
 # C extensions
 *.so
 LandCoverSegmentation/Data
