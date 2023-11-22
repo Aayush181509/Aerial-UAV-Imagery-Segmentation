@@ -6,6 +6,8 @@ LandCoverSegmentation/model
 # C extensions
 *.so
 LandCoverSegmentation/Data
+LandCoverSegmentation/data
+LandCoverSegmentation/data.zip
 # Distribution / packaging
 .Python
 build/
