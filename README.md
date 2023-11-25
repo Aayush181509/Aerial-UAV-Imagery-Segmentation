@@ -1,5 +1,5 @@
-<h1 align="center">Waste Material Dection Waste Detection From UAV / Drone Imagery</h1>
-<h3 align="center">Using Machine Learning and Deep Learning Approach for Detecting Waste</h3>
+<h1 align="center">Satellite Image Segmentation Using LandCover Datasets</h1>
+<h3 align="center">Segmenting Satellite Imagery for Buildings, Woodland, Roads and Water Detection</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
