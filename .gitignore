@@ -1,9 +1,12 @@
 LandCoverSegmentation/models
 LandCoverSegmentation/Data
 LandCoverSegmentation/data
+LandCoverSegmentation/Pred
 LandCoverSegmentation/data.zip
 dataset
 LandCoverSegmentation/models
 Solid_Waste/Data
 Solid_Waste/models
 Solid_Waste/images
+Solid_Waste/Jan_W7.tif
+Solid_Waste/final.shp
